@@ -1,7 +1,6 @@
 # Hi 👋, I'm Shaik Subhahan Vali
 
 ## 👨‍💻 About Me
-- 🎓 Mechanical Engineering Graduate
 - 📊 Aspiring Data Analyst
 - 🌱 Currently learning SQL, Excel, Power BI, Tableau, and Python
 - 🎯 Goal: Become a Data Analyst
